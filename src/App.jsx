@@ -31,7 +31,7 @@ return ( <ThemeProvider>
 {!loaded ? ( <div className="min-h-screen flex flex-col items-center justify-center bg-white dark:bg-zinc-950"> <div className="w-14 h-14 border-4 border-zinc-300 border-t-amber-500 rounded-full animate-spin"></div>
 
       <h2 className="mt-6 text-2xl font-bold">
-        Da Pizza Hub
+        The cafe Hub
       </h2>
 
       <p className="mt-2 text-zinc-500 dark:text-zinc-400">
