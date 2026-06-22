@@ -130,5 +130,30 @@ export const cafeData = {
     customers: "10K+",
     menuItems: "25+",
     rating: "4.8★"
+  },
+
+
+   reviews: [
+  {
+    id: 1,
+    name: "Rahul Sharma",
+    image: "https://placehold.co/100x100?text=R",
+    rating: 5,
+    comment: "Amazing coffee and friendly staff. Highly recommended!"
+  },
+  {
+    id: 2,
+    name: "Priya Verma",
+    image: "https://placehold.co/100x100?text=P",
+    rating: 5,
+    comment: "Loved the ambience and the desserts were fantastic."
+  },
+  {
+    id: 3,
+    name: "Aman Singh",
+    image: "https://placehold.co/100x100?text=A",
+    rating: 4,
+    comment: "Great place to relax and enjoy a cup of coffee."
   }
+],
 };
